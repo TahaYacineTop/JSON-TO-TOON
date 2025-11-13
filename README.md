@@ -8,4 +8,4 @@ Run (local):
 3. pip install -r requirements.txt
 4. streamlit run app_streamlit.py
 
-Live demo: (paste your Streamlit Cloud URL after deploy)
+Live demo: (will be available after deploying to Streamlit Cloud)
